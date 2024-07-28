@@ -11,4 +11,5 @@ TODO:
 - [ ] sms over radio
 - [ ] satellite radio?
 - [ ] long range broadcast
+- [ ] HD radio + decoding weather, traffic, album art and metadata
 
